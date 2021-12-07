@@ -1,9 +1,0 @@
-Online Doctor Appointment System using HTML, CSS, JavaScript, Node.Js MongoDB is developed with point of manage the list of data of doctors, patients, appointment bookings, doctor available schedule information etc. 
-
-This Project on Doctor Appointment System, which is web based or online application which will resolves the problem of booking of Appointment according to the choice and requirement of the patient. Under this system, there is one feature like it is very effective solution which has offered with different available doctor availability on suitable dates and times, so patient can book doctor appointment according to their requirements or choice and patient can also cancel doctor appointment which also available under this system.
-
-How does online doctor consultation work?
-1Enter your mobile number and OTP
-2Begin your online doctor consultation with a TATA Health doctor by making a payment of Rs 100.
-3The doctor might ask you for a video consultation if required
-4Check your prescription in the Health Locker
