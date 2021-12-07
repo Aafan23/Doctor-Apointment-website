@@ -1,0 +1,21 @@
+.container {
+    /* Content is centered horizontally */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.container__column {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    position: absolute;
+    width: 170px;
+    height: 250px;
+    top: 50px;
+    margin: 4px 8px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
