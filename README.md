@@ -1,5 +1,9 @@
 # Doctor-Apointment-website
 This Project on Doctor Appointment System, which is web based. patient can book doctor appointment according to their requirements or choice.  Developed responsive Doctor Appointment Website using HTML, CSS , JavaScript And Node.js , MongoDB for Backend.
 
+![Doc1](https://user-images.githubusercontent.com/95689328/145038396-63eef66a-9bad-43f7-b4d3-e1ce237b67f2.jpg)
 
-<img src="https://user-images.githubusercontent.com/95689328/145036334-00256979-fecc-4d55-b50b-787b97b658e9.jpg" width="230" height="400">
+
+![doc2](https://user-images.githubusercontent.com/95689328/145038442-0b42bdd3-bfdc-4260-be88-58e13bb73078.jpg)
+
+
